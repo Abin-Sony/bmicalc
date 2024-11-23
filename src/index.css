@@ -1,0 +1,10 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Libre Baskerville", serif;
+}
+#bg{
+  background-image: url('https://img.freepik.com/premium-photo/illustration-fitness-equipments-design-background_916191-39402.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
